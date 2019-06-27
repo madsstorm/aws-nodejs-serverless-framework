@@ -26,4 +26,4 @@ plugins:
 
 custom:
   client:
-    bucketName: your-unique-bucketname-here
+    bucketName: madsstorm-node-text-message-app-20190627
